@@ -13,7 +13,7 @@ I am a Hardcore internet enthusiast, I live with the internet even eat food with
 - ⚡  I ❤️ to play Cricket
 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jeet-biswas-portfolio-9tqbswlb2-jeetbiswas55-gmailcom.vercel.app/)
 
 ## 🛠 Languages, Framework , Library and Tools 
 <p>
